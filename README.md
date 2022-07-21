@@ -1,0 +1,3 @@
+- Code repository for National Bulk Equipment web deployment
+- Maintained by John Vargo, Web and Interactive Media Manager
+- I can be reached at webmaster@nbe-inc.com
